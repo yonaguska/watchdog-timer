@@ -21,7 +21,7 @@ To use the watchdog;
 
 Testing the watchdog units:
 
-1. A Raspberry Pi Pico based test system was developed that runs tests on each watchdog I sell. Besides being a hardware/software developer, I am a professional test engineer with over thirty years of automated test system development experience.
+1. A Raspberry Pi Pico based test system was developed that runs tests on each watchdog I sell. Besides being a hardware/software developer, I am a professional test engineer with over thirty years of automated system test development experience.
 2. The testing checks to insure the timeout period is at least 400 seconds, any board timing out in less than 400 seconds is rejected. It also insures the retriggering works ten times consequitively and then times out properly.
 
 ![Test system](Docs/photos/2026-06-17_19-35-20_testing.png)
