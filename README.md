@@ -13,7 +13,7 @@ To use the watchdog;
 
 ![watchdog board](Docs/board_pzt.png)
 
-![watchdog photo](Docs/photos/IMG_4257.png)
+![watchdog photo](Docs/photos/2026-06-17_18-57-21_eBay.png)
 
 ![NXP ICM7555 Datasheet](Docs/ICM7555.pdf)
 
