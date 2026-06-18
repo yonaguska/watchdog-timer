@@ -17,4 +17,4 @@ To use the watchdog;
 
 ![NXP ICM7555 Datasheet](Docs/ICM7555.pdf)
 
-<a href="Docs/ICM7555.pdf" class="image fit" type="application/pdf"><img src="Docs/ICM7555.pdf" alt=""></a>
+[![NXP ICM7555 Datasheet](Docs/photos/2026-06-17_19-15-08_datasheet_pg1.png)](Docs/ICM7555.pdf)
